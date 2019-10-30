@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Split</string>
+    <string name="title_activity_pop">PopActivity</string>
+    <string name="correct"><u>IS THIS CORRECT?</u></string>
+</resources>
